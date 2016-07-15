@@ -1,0 +1,134 @@
+{
+  "settings": {
+    "icons": true
+  },
+  "firstname": "Rup",
+  "familyname": "Gautam",
+  "linkedin_id": "rupgautam",
+  "github_id": "rupgautam",
+  "bio_data": {
+    "email": "rupngautam@gmail.com",
+    "phone": "+1 (204) 000-0000",
+    "website": "https://rupgautam.me",
+    "stars": [
+      "C/C++",
+      "Javascript",
+      "html/CSS",
+      "php",
+      "Ruby",
+      "Git"
+    ],
+    "summary": {
+      "points": [
+        "Enthusiastic about computer and it's way of working",
+        "Enjoys writing codes for Open Source communities",
+        "Hard worker, quick learner, and ability to assume responsibility"
+      ]
+    },
+    "github_projects": {
+      "details": [
+                {
+          "project_name": "rupgautam/NTunes",
+          "tagline": "NTunes iOS/Android apps",
+          "description": [
+            "Platform for Native Nepali Music app",
+            "Developed it using Ionic Frameworks, Rest API, AWS cloud storage, node etc."
+          ]
+        },
+        {
+          "project_name": "rupgautam/NTunesAPI",
+          "tagline": "Live at [docs.ntunes.net](http://docs.ntunes.net/)",
+          "description": [
+            "Wrote this project for \"Nepal Tunes Music\" for API documentation ",
+            "Made it to how-to document the use of NTunesAPI system"
+          ]
+        },
+
+        {
+          "project_name": "rupgautam/NTunes-Landing-Page",
+          "tagline": "Live at [ntunesapp.com](http://www.ntunesapp.com/)",
+          "description": [
+            "Developed this landing page for NTunes iOS/Android Apps",
+            "Wrote this project using CSS/HTML for simplicity"
+          ]
+        },
+        {
+          "project_name": "rupgautam/Chart_Nepal",
+          "tagline": "Live at [Chart_Nepal](http://rupgautam.github.io/Chart_Nepal/)",
+          "description": [
+            "Fun project to visualize open data from gov't atlas. Collected data from various xls and pdf from cbs website, converted into json format and rendered into graphs using Chart.js & html/css."
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "details": [
+        {
+          "type": "Programming Languages",
+          "items": [
+            "C",
+            "C++",
+            "Swift",
+            "HTML/CSS",
+            "Javascript",
+            "PHP"
+          ]
+        },
+        {
+          "type": "Web Frameworks",
+          "items": [
+            "laravel",
+            "REST",
+            "Ionic Frameworks",
+            "Nginx",
+            "Rails",
+            "Apache"
+          ]
+        },
+        {
+          "type": "Databases",
+          "items": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "IBM DB2"
+          ]
+        }
+      ]
+    },
+    "education": {
+      "show_gpa": true,
+      "schools": [
+        {
+          "degree": "Computer Programming & Analysis",
+          "major": "Programming",
+          "institution": "Seneca College",
+          "graduation_year": 2018
+        }
+      ]
+    },
+    "experience": {
+      "items": [
+        {
+          "title": "Communication and Public Relation",
+          "organisation": "Nepali CSM",
+          "location": "Winnipeg, MB",
+          "from": "Sept. 2012",
+          "to": "Present",
+          "details": [
+            "Using python mailman setup inhouse mailing list for more than 500+ community members",
+            "Developed community website, which includes email subscription for newsletters and event infos. <<http://nepalicsm.com>>"
+          ],
+          "technology_used": {
+            "tools": [
+              "Python",
+              "Wordpress",
+              "Mailman",
+              "MYSQL"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
