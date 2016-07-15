@@ -48,7 +48,7 @@ h1 {
 .circle:before, .circle:after {
     position: absolute;
 		content: 'Programmer';
-    width: 6.25em;
+    width: 6.30em;
     font-size: 1.7em;
     top: 2em;
     right: 6em;
