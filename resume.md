@@ -29,7 +29,7 @@ Python - Java - html/CSS - php - Git
 ### Education
  Degree | Major | Institution | Graduation Year
 :--:|:--:|:--:|:--:
-Computer Science | University Of Winnipeg || 2019
+BSc. Applied Computer Science | University Of Winnipeg || 2019
 Computer Programming &amp; Analysis | Programming | Seneca College | 2016
 
 
