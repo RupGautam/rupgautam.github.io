@@ -1,10 +1,10 @@
 ##Rup Gautam
-[https://rupgautam.me](https://rupgautam.me) `rupngautam@gmail.com` `+1 (204) 000-0000`
+[https://rupgautam.me](https://rupgautam.me) `rupngautam@gmail.com` `+1 (204) 330-3331`
 
 C/C++ - Javascript - html/CSS - php - Ruby - Git
 
 ### Qualifications summary
-* Enthusiastic about computer and it's way of working
+* Computer Science Enthusiast and a Student 
 * Enjoys writing codes for Open Source communities
 * Hard worker, quick learner, and ability to assume responsibility
 
@@ -22,14 +22,15 @@ C/C++ - Javascript - html/CSS - php - Ruby - Git
     - Fun project to visualize open data from gov't atlas. Collected data from various xls and pdf from cbs website, converted into json format and rendered into graphs using Chart.js & html/css.
 
 ### Technical Skills
-* **Programming Languages**: `C` `C++` `Swift` `HTML/CSS` `Javascript` `PHP` 
+* **Programming Languages**: `Python` `Java` `C` `HTML/CSS` `Javascript` `PHP` 
 * **Web Frameworks**: `laravel` `REST` `Ionic Frameworks` `Nginx` `Rails` `Apache` 
 * **Databases**: `MySQL` `PostgreSQL` `MongoDB` `IBM DB2` 
 
 ### Education
  Degree | Major | Institution | Graduation Year
 :--:|:--:|:--:|:--:
-Computer Programming &amp; Analysis | Programming | Seneca College | 2018
+Computer Science | University Of Winnipeg | 2019
+Computer Programming &amp; Analysis | Programming | Seneca College | 2016
 
 
 ### Professional Experience
