@@ -1,7 +1,7 @@
 ##Rup Gautam
 [https://rupgautam.me](https://rupgautam.me) `rupngautam@gmail.com` `+1 (204) 330-3331`
 
-C/C++ - Javascript - html/CSS - php - Ruby - Git
+Python - Java - html/CSS - php - Git
 
 ### Qualifications summary
 * Computer Science Enthusiast and a Student 
@@ -29,7 +29,7 @@ C/C++ - Javascript - html/CSS - php - Ruby - Git
 ### Education
  Degree | Major | Institution | Graduation Year
 :--:|:--:|:--:|:--:
-Computer Science | University Of Winnipeg | 2019
+Computer Science | University Of Winnipeg || 2019
 Computer Programming &amp; Analysis | Programming | Seneca College | 2016
 
 
