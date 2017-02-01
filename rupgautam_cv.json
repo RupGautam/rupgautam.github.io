@@ -1,6 +1,6 @@
 {
   "settings": {
-    "icons": true
+    "icons": false
   },
   "firstname": "Rup",
   "familyname": "Gautam",
@@ -8,19 +8,19 @@
   "github_id": "rupgautam",
   "bio_data": {
     "email": "rupngautam@gmail.com",
-    "phone": "+1 (204) 000-0000",
+    "phone": "+1 (204) 330-3331",
     "website": "https://rupgautam.me",
     "stars": [
-      "C/C++",
+      "Python",
+      "Java",
       "Javascript",
       "html/CSS",
       "php",
-      "Ruby",
       "Git"
     ],
     "summary": {
       "points": [
-        "Enthusiastic about computer and it's way of working",
+        "Enthusiastic Computer Science student",
         "Enjoys writing codes for Open Source communities",
         "Hard worker, quick learner, and ability to assume responsibility"
       ]
@@ -29,7 +29,7 @@
       "details": [
                 {
           "project_name": "rupgautam/NTunes",
-          "tagline": "NTunes iOS/Android apps",
+          "tagline": "NTunes iOS/Android apps [private repo]",
           "description": [
             "Platform for Native Nepali Music app",
             "Developed it using Ionic Frameworks, Rest API, AWS cloud storage, node etc."
@@ -66,52 +66,49 @@
         {
           "type": "Programming Languages",
           "items": [
-            "C",
-            "C++",
-            "Swift",
+            "Python",
+            "Java",
             "HTML/CSS",
             "Javascript",
             "PHP"
           ]
         },
         {
-          "type": "Web Frameworks",
+          "type": "Frameworks",
           "items": [
-            "laravel",
+          	"MySQL",
+          	"IBM DB2",
             "REST",
             "Ionic Frameworks",
             "Nginx",
             "Rails",
             "Apache"
           ]
-        },
-        {
-          "type": "Databases",
-          "items": [
-            "MySQL",
-            "PostgreSQL",
-            "MongoDB",
-            "IBM DB2"
-          ]
         }
       ]
     },
     "education": {
-      "show_gpa": true,
+      "show_gpa": false,
       "schools": [
         {
-          "degree": "Computer Programming & Analysis",
-          "major": "Programming",
+          "degree": "Advanced Diploma",
+          "major": "Programming and Analysis",
           "institution": "Seneca College",
-          "graduation_year": 2018
+          "graduation_year": 2017
+        },
+        {
+          "degree": "Bachelor of Science",
+          "major": "Computer Science",
+          "institution": "University Of Winnipeg",
+          "graduation_year": 2019
         }
       ]
     },
     "experience": {
       "items": [
         {
-          "title": "Communication and Public Relation",
-          "organisation": "Nepali CSM",
+          "title": "Web Developer/ Communication Director",
+          "organisation": "Nepali CSM [Non-Profit Org]",
           "location": "Winnipeg, MB",
           "from": "Sept. 2012",
           "to": "Present",
