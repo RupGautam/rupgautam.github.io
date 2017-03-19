@@ -4,6 +4,7 @@
 - [x] [Zen mind]
 - [x] [The Artist: Being Iniesta](https://www.amazon.ca/The-Artist/dp/147223233X)
 - [x] [The four Agreements](https://www.amazon.ca/Four-Agreements-Practical-Personal-Freedom/dp/1878424319/ref=sr_1_1?s=books&ie=UTF8&qid=1489898707&sr=1-1&keywords=The+four+Agreements)
+- [x] [The Girl on the Train](https://www.amazon.com/Girl-Train-Paula-Hawkins/dp/1594634025/ref=sr_1_1?s=books&ie=UTF8&qid=1489899320&sr=1-1&keywords=the+girl+on+the+train)
 
 
 ### 2017 
