@@ -15,9 +15,11 @@
 - [ ] [Founders at Work](https://www.amazon.ca/Founders-Work-Stories-Startups-Early/dp/1430210788)
 - [ ] [Thing-Explainer (may-be-list)]()
 - [ ] [Thinking, Fast and Slow](https://www.amazon.ca/Thinking-Fast-Slow-Daniel-Kahneman/dp/0385676530/ref=sr_1_2?ie=UTF8&qid=1489899665) 
-      ### 2017 Spring to-read list 
-        - [ ] [Shortcomings](https://www.amazon.com/Shortcomings-Adrian-Tomine/dp/1897299753/ref=sr_1_1?            s=books&ie=UTF8&qid=1489899144&sr=1-1&keywords=Shortcomings)
-        - [ ] [High school confidential](https://www.amazon.com/High-School-Confidential-Secrets-Undercover/dp/074328366X/ref=sr_1_1?s=books&ie=UTF8&qid=1489899159&sr=1-1&keywords=High+school+confidential)
-        - [ ] [Down and out in Paris and London](https://www.amazon.com/Down-Paris-London-George-Orwell/dp/015626224X/ref=sr_1_1?s=books&ie=UTF8&qid=1489899179&sr=1-1&keywords=Down+and+out+in+Paris+and+London)
-        - [ ] [How doctors think](https://www.amazon.com/How-Doctors-Think-Jerome-Groopman/dp/0547053649/ref=sr_1_1?s=books&ie=UTF8&qid=1489899197&sr=1-1&keywords=how+doctors+think)
+
+### 2017 Spring to-read list 
+
+- [ ] [Shortcomings](https://www.amazon.com/Shortcomings-Adrian-Tomine/dp/1897299753/ref=sr_1_1?            s=books&ie=UTF8&qid=1489899144&sr=1-1&keywords=Shortcomings)
+- [ ] [High school confidential](https://www.amazon.com/High-School-Confidential-Secrets-Undercover/dp/074328366X/ref=sr_1_1?s=books&ie=UTF8&qid=1489899159&sr=1-1&keywords=High+school+confidential)
+- [ ] [Down and out in Paris and London](https://www.amazon.com/Down-Paris-London-George-Orwell/dp/015626224X/ref=sr_1_1?s=books&ie=UTF8&qid=1489899179&sr=1-1&keywords=Down+and+out+in+Paris+and+London)
+- [ ] [How doctors think](https://www.amazon.com/How-Doctors-Think-Jerome-Groopman/dp/0547053649/ref=sr_1_1?s=books&ie=UTF8&qid=1489899197&sr=1-1&keywords=how+doctors+think)
 
