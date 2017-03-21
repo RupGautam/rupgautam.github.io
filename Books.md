@@ -22,8 +22,6 @@
 - [ ] [High school confidential](https://www.amazon.com/High-School-Confidential-Secrets-Undercover/dp/074328366X/ref=sr_1_1?s=books&ie=UTF8&qid=1489899159&sr=1-1&keywords=High+school+confidential)
 - [ ] [Down and out in Paris and London](https://www.amazon.com/Down-Paris-London-George-Orwell/dp/015626224X/ref=sr_1_1?s=books&ie=UTF8&qid=1489899179&sr=1-1&keywords=Down+and+out+in+Paris+and+London)
 - [ ] [How doctors think](https://www.amazon.com/How-Doctors-Think-Jerome-Groopman/dp/0547053649/ref=sr_1_1?s=books&ie=UTF8&qid=1489899197&sr=1-1&keywords=how+doctors+think)
-
 - [ ][Algorithms To Live](https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
-
 - [ ][Sapiens](https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari/dp/077103850X)
 
