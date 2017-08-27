@@ -12,15 +12,15 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <meta name="description" content="I have playing around with online Data Science courses and often courses were usingJupyter notebook. Since I have limited SSD on my local machine, I can’t keep my onlinecourses data with me all the ti">
+    <meta name="description" content="I have been playing around with online Data Science courses and often courses were usingJupyter Notebook. Since I have limited SSD on my local machine, I can’t keep my onlinecourses data with me all t">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Jupyter Notebook server on remote machine via web | Rup Gautam">
-    <meta name="twitter:description" content="I have playing around with online Data Science courses and often courses were usingJupyter notebook. Since I have limited SSD on my local machine, I can’t keep my onlinecourses data with me all the ti">
+    <meta name="twitter:description" content="I have been playing around with online Data Science courses and often courses were usingJupyter Notebook. Since I have limited SSD on my local machine, I can’t keep my onlinecourses data with me all t">
 
     <meta property="og:type" content="article">
     <meta property="og:title" content="Jupyter Notebook server on remote machine via web | Rup Gautam">
-    <meta property="og:description" content="I have playing around with online Data Science courses and often courses were usingJupyter notebook. Since I have limited SSD on my local machine, I can’t keep my onlinecourses data with me all the ti">
+    <meta property="og:description" content="I have been playing around with online Data Science courses and often courses were usingJupyter Notebook. Since I have limited SSD on my local machine, I can’t keep my onlinecourses data with me all t">
 
     
     <meta name="author" content="Rup Gautam">
@@ -193,13 +193,13 @@
   </header>
 
   <section class="post">
-    <p>I have playing around with online Data Science courses and often courses were using<br>Jupyter notebook. Since I have limited SSD on my local machine, I can’t keep my online<br>courses data with me all the time, I need space for other things too. So, I decided to install<br>Jupyter on my remote machine[DigitalOcean 5$ server]. It was working fine the traditional way<br> but everytime I have tunnel my remote connection to my local machine and… it was pain.</p>
+    <p>I have been playing around with online Data Science courses and often courses were using<br>Jupyter Notebook. Since I have limited SSD on my local machine, I can’t keep my online<br>courses data with me all the time, I need space for other things too. So, I decided to install<br>Jupyter on my remote machine[DigitalOcean 5$ server]. It was working fine the traditional way<br>but every time I have tunnel my remote connection to my local machine and… it was pain.</p>
 <p><em>Traditional way:</em></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[me@local] ssh me@remote -L -N 8900:localhost:8888</div></pre></td></tr></table></figure>
 <p>After, you could access your Jupyter from local browser at</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">localhost:8900</div></pre></td></tr></table></figure>
 <p>Let’s run it as <em>systemd.</em>  If I need to access my notebook, I login to my remote server and simply run that service.</p>
-<h3 id="Installation"><a href="#Installation" class="headerlink" title="Installation:"></a>Installation:</h3><p>I’m assuming you already have up and run Jupyter install.<br>Jupyter Notebook will ask you for password everytime you want to use it.<br>You can setup your password from command line:</p>
+<h3 id="Installation"><a href="#Installation" class="headerlink" title="Installation:"></a>Installation:</h3><p>I’m assuming you already have up and run Jupyter install.<br>Jupyter Notebook will ask you for password every time you want to use it.<br>You can setup your password from command line:</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">jupyter notebook passwd</div></pre></td></tr></table></figure>
 <p>Copy paste this piece of code</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo nano /lib/systemd/system/jupyter-notebook.service</div></pre></td></tr></table></figure>
