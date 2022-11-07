@@ -1,121 +1,124 @@
-//Thanks: https://codepen.io/emgerold/pen/EwCxi
-.ajax-spinner-bars {
-  position:absolute;
-  width:35px;
-  height:35px;
-  left:50%;
-  top:50%;
+
+
+body {
+    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+    background-size: 200%;
+    background-position: 0%;
+    font-family: 'Crimson Pro', sans-serif;
+    font-size: 1em;
+    margin: 4em;
+    color: #f5f5f5;
 }
-.ajax-spinner-bars > div {
-	position: absolute;
-	width: 2px;
-	height: 8px;
-	background-color: #25363F;
-	opacity: 0.05;
-  -webkit-animation: fadeit 0.8s linear infinite;
-          animation: fadeit 0.8s linear infinite;
+
+h1 {
+    font-size: 3.2em;
+    text-align: center;
+    font-family: 'Crimson Pro', sans-serif;
 }
-.ajax-spinner-bars > .bar-1 {
-  -webkit-transform: rotate(0deg) translate(0, -12px);
-          transform: rotate(0deg) translate(0, -12px);
-  -webkit-animation-delay:0.05s;
-          animation-delay:0.05s;
+h2 {
+    font-size: 1.2em;
+    text-align: center;
+    font-family: 'Crimson Pro', sans-serif;
 }
-.ajax-spinner-bars > .bar-2 {
-  -webkit-transform: rotate(22.5deg) translate(0, -12px);
-          transform: rotate(22.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.1s;
-          animation-delay:0.1s;
+ .circle {
+    position: relative;
+    margin: 0 auto 3em;
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+    background: #000 url(https://media-exp1.licdn.com/dms/image/D5603AQEse_1rjX0WBw/profile-displayphoto-shrink_400_400/0/1667337800057?e=1673481600&v=beta&t=eJ-1qiHbV36UbJHpqryfKTGhJkiEVhdHT1ZU26lsXe8) 20% 0%;
+    background-size: 10em 10em; 
+/*   this will zoom the pic  */
+    box-shadow: 0 0 0 0.5em rgba(255, 250, 250, 0.1);
 }
-.ajax-spinner-bars > .bar-3 {
-  -webkit-transform: rotate(45deg) translate(0, -12px);
-          transform: rotate(45deg) translate(0, -12px);
-  -webkit-animation-delay:0.15s;
-          animation-delay:0.15s;
+ 
+.social {
+    position: relative;
+    margin: 0 auto 3em;
+    height: 9em;
 }
-.ajax-spinner-bars > .bar-4 {
-  -webkit-transform: rotate(67.5deg) translate(0, -12px);
-          transform: rotate(67.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.2s;
-          animation-delay:0.2s;
+
+.circle:before, .circle:after {
+    position: absolute;
+
+    width: 6.30em;
+    font-size: 1.7em;
+    top: 2em;
+    right: 6em;
 }
-.ajax-spinner-bars > .bar-5 {
-  -webkit-transform: rotate(90deg) translate(0, -12px);
-          transform: rotate(90deg) translate(0, -12px);
-  -webkit-animation-delay:0.25s;
-          animation-delay:0.25s;
+
+.circle:after {
+
+    left: 6.45em;
+    width: 10.25em;
 }
-.ajax-spinner-bars > .bar-6 {
-  -webkit-transform: rotate(112.5deg) translate(0, -12px);
-          transform: rotate(112.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.3s;
-          animation-delay:0.3s;
+
+
+.li {
+    margin: 0;
+
 }
-.ajax-spinner-bars > .bar-7 {
-  -webkit-transform: rotate(135deg) translate(0, -12px);
-          transform: rotate(135deg) translate(0, -12px);
-  -webkit-animation-delay:0.35s;
-          animation-delay:0.35s;
+
+
+ul {
+    padding: 10px;
+    font-size: 0;
+    text-align: center;
 }
-.ajax-spinner-bars > .bar-8 {
-  -webkit-transform: rotate(157.5deg) translate(0, -12px);
-          transform: rotate(157.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.4s;
-          animation-delay:0.4s;
+
+li {
+    display: inline-block;
+    margin: 70px auto;
 }
-.ajax-spinner-bars > .bar-9 {
-  -webkit-transform: rotate(180deg) translate(0, -12px);
-          transform: rotate(180deg) translate(0, -12px);
-  -webkit-animation-delay:0.45s;
-          animation-delay:0.45s;
+
+a {
+    display: block;
+    position: relative;
+    margin: 0 25px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
 }
-.ajax-spinner-bars > .bar-10 {
-  -webkit-transform: rotate(202.5deg) translate(0, -12px);
-          transform: rotate(202.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.5s;
-          animation-delay:0.5s;
+
+a:before {
+    content: "";
+    background-color: #1f2027;
+    color: white;
+
 }
-.ajax-spinner-bars > .bar-11 {
-  -webkit-transform: rotate(225deg) translate(0, -12px);
-          transform: rotate(225deg) translate(0, -12px);
-  -webkit-animation-delay:0.55s;
-          animation-delay:0.55s;
+
+a:after {
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
 }
-.ajax-spinner-bars > .bar-12 {
-  -webkit-transform: rotate(247.5deg) translate(0, -12px);
-          transform: rotate(247.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.6s;
-          animation-delay:0.6s;
+
+a:hover:before {
+    background-color: white;
 }
-.ajax-spinner-bars> .bar-13 {
-  -webkit-transform: rotate(270deg) translate(0, -12px);
-          transform: rotate(270deg) translate(0, -12px);
-  -webkit-animation-delay:0.65s;
-          animation-delay:0.65s;
+
+#li:hover {
+    color: #002194;
 }
-.ajax-spinner-bars > .bar-14 {
-  -webkit-transform: rotate(292.5deg) translate(0, -12px);
-          transform: rotate(292.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.7s;
-          animation-delay:0.7s;
+
+#gh:hover {
+    color: rgba(51, 51, 51, 0.58);
 }
-.ajax-spinner-bars > .bar-15 {
-  -webkit-transform: rotate(315deg) translate(0, -12px);
-          transform: rotate(315deg) translate(0, -12px);
-  -webkit-animation-delay:0.75s;
-          animation-delay:0.75s;
+
+#cv:hover {
+    color: #dd3a3a;
 }
-.ajax-spinner-bars> .bar-16 {
-  -webkit-transform: rotate(337.5deg) translate(0, -12px);
-          transform: rotate(337.5deg) translate(0, -12px);
-  -webkit-animation-delay:0.8s;
-          animation-delay:0.8s;
+
+#fb:hover {
+    color: #285298;
 }
-@-webkit-keyframes fadeit{
-	0%{ opacity:1; }
-	100%{ opacity:0;}
+
+#tw:hover {
+    color: #0025a5;
 }
-@keyframes fadeit{
-	0%{ opacity:1; }
-	100%{ opacity:0;}
+
+#bk:hover{
+  color: rgba(51, 51, 51, 0.58);
 }
