@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Terraform', 'Kubernetes', 'AWS', 'GCP', 'ArgoCD'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Hey there, I'm Rup Gautam, a Site Reliability Engineer currently based in Toronto and
+              working for <a href="https://thescore.com/">theScore</a>. Prior to that, I worked for{' '}
+              <a href="https://thescore.com/">DISQO</a>, a first-party data company based in Los
+              Angeles. With over 5 years of experience scaling large-scale production
+              infrastructure, I've driven reliability efforts, including monitoring, alerting,
+              automated deployment pipelines, and failure resiliency. I am experienced in AWS cloud,
+              Continuous Integration & Continuous deployment (CI-CD), Configuration Management, and
+              Infrastructure automation (Ansible, Terraform).
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +157,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/profile-pic.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
